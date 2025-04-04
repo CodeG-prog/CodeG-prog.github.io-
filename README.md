@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang ="eng">
     <head>
@@ -49,11 +48,11 @@
                 <br>
             </div>
             <br>
-            <p style="font-size:large; color: black;">  An aspiring web developer with a passion for creating dynamic and user-friendly websites. 
-                I have a strong foundation in HTML, CSS, and JavaScript, and I'm constantly learning new technologies such as Python,Github and MYSQL to enhance my skills.</p>
-            <p style="font-size:large;color: black;"> In my free time, I enjoy exploring new programming languages, working on personal projects, and contributing to open-source initiatives.
+            <p style="font-size: large; color: black;">  An aspiring web developer passionate about creating dynamic and user-friendly websites. 
+                I have a strong foundation in HTML, CSS, and JavaScript, and I'm constantly learning new technologies such as Python, GitHub, and MYSQL to enhance my skills.</p>
+            <p style="font-size: large; color: black;"> In my free time, I enjoy exploring new programming languages, working on personal projects, and contributing to open-source initiatives.
                  I'm excited to connect with like-minded individuals and collaborate on innovative web development projects.</p>
-            <p style="font-size:large; color: black;"> With a background in design and development bring a unique perspective to every project. 
+            <p style="font-size: large; color: black;"> With a background in design and development bring a unique perspective to every project. 
                 I'm constantly learning new technologies and techniques to stay at the forefront of web development</p>
                 <hr
          
